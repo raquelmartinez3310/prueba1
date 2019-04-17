@@ -10,8 +10,8 @@ package pkgpackage.pruebagit;
  * @author programador
  */
 public class PackagePruebagit {
-public void unmetodo(){
-    cualquiercosa;
+    public void unmetodo(){
+    }
     /**
      * @param args the command line arguments
      */
