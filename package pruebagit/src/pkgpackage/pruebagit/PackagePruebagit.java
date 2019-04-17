@@ -11,12 +11,17 @@ package pkgpackage.pruebagit;
  */
 public class PackagePruebagit {
     public void unmetodo(){
+        otrometodo();
     }
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    }
+
+    private void otrometodo() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     
 }
